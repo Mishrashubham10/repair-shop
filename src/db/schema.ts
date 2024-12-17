@@ -1,4 +1,3 @@
-import { tickets } from './schema';
 import {
   pgTable,
   serial,
